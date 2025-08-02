@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+section {
+    width: 95%;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+    border: 5px solid #121212;
+    gap: 25px;
+    font-size: 20px;
+}
+
+
+img {
+    box-shadow: 0px 0px 5px 5px gray;
+    width: 400px;
+    margin: 0.8rem 0;
+}
+
+h1 {
+    margin-bottom: 1rem;
+}
+
+a {
+   color: #007185;
+}
+
+h2 {
+    margin-top: 1rem;
+}
+
+.entity {
+    color: #edc001;
+}
+
+span {
+    color: #121212;
+}
+
+p {
+    margin: 0.8rem 0;
+}
